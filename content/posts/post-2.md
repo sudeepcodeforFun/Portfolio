@@ -47,7 +47,7 @@ The system is built using three major algorithms:
 
 🔁 These algorithms work together continuously on live video streams to ensure proactive monitoring and quick response.
 
-![Real-Time Surveillance System](/images/post/post-1.png)
+![Real-Time Surveillance System](/images/post/post-2-2.png)
 *Real-time analysis and monitoring using AI-based surveillance*
 
 ## 📊 Results and Observations
