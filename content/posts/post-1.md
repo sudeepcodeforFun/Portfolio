@@ -43,7 +43,7 @@ Rich in antioxidants and antibacterial properties
 
 Used in traditional medicine for immunity and healing
 
-![alter-text](/images/post/post-1.png)
-*Example Caption*
+![alter-text](/images/post/post-1-1.png)
+*Dammer baby and queen bee eggs taken out to make new family*
 
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius! Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo vel ad consectetur ut aperiam. Itaque eligendi natus aperiam? Excepturi repellendus consequatur quibusdam optio expedita praesentium est adipisci dolorem ut eius!
